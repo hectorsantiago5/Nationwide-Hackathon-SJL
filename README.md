@@ -27,7 +27,7 @@ gather and visualize data to draw correlations between COVID-19 vaccine location
 **Plan**
 
 The Social Justice league plans to create a website and a Jupyter notebook that will accuratly and effeciently give access to data
-dealing with this area. The data will consist 
+dealing with this area. The data will consist of 
 
 **1.** Vaccination Sites
 
