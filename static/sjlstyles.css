@@ -1,10 +1,5 @@
 body{
-background-image: url("SocialJusticeLeagueLogo.png");
 background-color: #c7e8f0;
-background-repeat:no-repeat;
-background-position-y: 35px;
-background-position-x: 750px;
-background-attachment: fixed;
 }
 header{
 margin-left: 10px;
@@ -17,8 +12,24 @@ h1{
 .about{
   margin-left: 10px;
   left:400px;
-  width:610px;
-  height:600px;
+  width:820px;
+  height:500px;
   background-color: #ffffff;
   opacity: 0.7;
 }
+.logos{
+    position: absolute;
+    left: 920px;
+    top: 340px;
+}
+.sjl{
+    position: absolute;
+    left: 850px;
+    top: 20px;
+}
+.git{
+    position: absolute;
+    left: 700px;
+    top: 35px;
+}
+
